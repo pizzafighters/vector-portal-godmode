@@ -1,4 +1,4 @@
-package cally72jhb.addon.modules.player;
+package example.addon.modules;
 
 import meteordevelopment.meteorclient.events.packets.PacketEvent;
 import meteordevelopment.meteorclient.systems.modules.Categories;
